@@ -1,0 +1,8 @@
+api-raw/node_modules/*
+api-prisma/node_modules/*
+api-nest-prisma/node_modules/*
+api-raw/dist/*
+api-prisma/dist/*
+api-nest-prisma/dist/*
+api-prisma/.env
+api-nest-prisma/.env
